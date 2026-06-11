@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you cite this documentation repository, please cite it as follows."
+title: "Patent: Nucleotide Mixtures for DNA/RNA Amplification and Sequencing"
+authors:
+  - family-names: "Munive"
+    given-names: "Martin"
+repository-code: "https://github.com/Martin-Munive/PATENT_Nucleotide-Mixtures-DNA-RNA-Amplification"
+url: "https://github.com/Martin-Munive/PATENT_Nucleotide-Mixtures-DNA-RNA-Amplification"
+abstract: "Public scientific documentation for patent family CO2017004500A1 / WO2018203280A1 on nucleotide mixtures for nucleic acid amplification and sequencing."
+license: "CC-BY-4.0"
+keywords:
+  - patent
+  - biotechnology
+  - nucleotide mixtures
+  - DNA amplification
+  - RNA amplification
+  - sequencing
+  - molecular biology
