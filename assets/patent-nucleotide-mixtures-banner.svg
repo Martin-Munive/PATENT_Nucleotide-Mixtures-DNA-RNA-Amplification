@@ -1,0 +1,50 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Patent: Nucleotide Mixtures for DNA/RNA Amplification and Sequencing</title>
+  <desc id="desc">Scientific banner showing DNA strands, nucleotide nodes, and patent documentation text.</desc>
+  <rect width="1280" height="360" fill="#071013"/>
+  <rect x="0" y="0" width="1280" height="360" fill="url(#grid)" opacity="0.32"/>
+  <path d="M0 318C155 250 286 284 424 240C594 186 738 84 934 116C1072 139 1168 219 1280 186V360H0V318Z" fill="#0F766E" opacity="0.28"/>
+  <path d="M0 56C127 89 241 77 362 53C544 18 709 37 872 78C1024 116 1146 101 1280 52V0H0V56Z" fill="#2563EB" opacity="0.22"/>
+  <g opacity="0.95">
+    <path d="M122 95C197 65 251 63 318 93C378 120 432 124 501 96" stroke="#67E8F9" stroke-width="5" stroke-linecap="round"/>
+    <path d="M122 224C197 254 251 256 318 226C378 199 432 195 501 223" stroke="#A7F3D0" stroke-width="5" stroke-linecap="round"/>
+    <path d="M155 87L155 233" stroke="#94A3B8" stroke-width="3" opacity="0.7"/>
+    <path d="M212 72L212 249" stroke="#94A3B8" stroke-width="3" opacity="0.7"/>
+    <path d="M269 77L269 242" stroke="#94A3B8" stroke-width="3" opacity="0.7"/>
+    <path d="M326 96L326 224" stroke="#94A3B8" stroke-width="3" opacity="0.7"/>
+    <path d="M383 112L383 204" stroke="#94A3B8" stroke-width="3" opacity="0.7"/>
+    <path d="M440 110L440 206" stroke="#94A3B8" stroke-width="3" opacity="0.7"/>
+    <circle cx="155" cy="87" r="10" fill="#67E8F9"/>
+    <circle cx="155" cy="233" r="10" fill="#A7F3D0"/>
+    <circle cx="212" cy="72" r="10" fill="#67E8F9"/>
+    <circle cx="212" cy="249" r="10" fill="#A7F3D0"/>
+    <circle cx="269" cy="77" r="10" fill="#67E8F9"/>
+    <circle cx="269" cy="242" r="10" fill="#A7F3D0"/>
+    <circle cx="326" cy="96" r="10" fill="#67E8F9"/>
+    <circle cx="326" cy="224" r="10" fill="#A7F3D0"/>
+    <circle cx="383" cy="112" r="10" fill="#67E8F9"/>
+    <circle cx="383" cy="204" r="10" fill="#A7F3D0"/>
+    <circle cx="440" cy="110" r="10" fill="#67E8F9"/>
+    <circle cx="440" cy="206" r="10" fill="#A7F3D0"/>
+  </g>
+  <g>
+    <rect x="570" y="76" width="594" height="208" rx="8" fill="#0B1820" stroke="#1E3A46"/>
+    <text x="610" y="124" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">PATENT DOCUMENTATION</text>
+    <text x="610" y="164" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">Nucleotide Mixtures</text>
+    <text x="610" y="204" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">DNA/RNA amplification and sequencing</text>
+    <text x="610" y="242" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="20">CO2017004500A1 / WO2018203280A1</text>
+  </g>
+  <g opacity="0.9">
+    <circle cx="1118" cy="72" r="5" fill="#F59E0B"/>
+    <circle cx="1152" cy="98" r="4" fill="#67E8F9"/>
+    <circle cx="1192" cy="76" r="6" fill="#A7F3D0"/>
+    <circle cx="1044" cy="291" r="5" fill="#F59E0B"/>
+    <circle cx="1082" cy="312" r="4" fill="#67E8F9"/>
+    <circle cx="1130" cy="296" r="6" fill="#A7F3D0"/>
+  </g>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#334155" stroke-width="1"/>
+    </pattern>
+  </defs>
+</svg>
